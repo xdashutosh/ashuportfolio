@@ -59,12 +59,12 @@ const Gyancodeurl ="https://github.com/xdashutosh/frontend.git";
 const Gyanlive="https://frontend-pearl-two.vercel.app/";
 
 
-const CryptoSkills =['Redis','Node','Redux','React','MongoDB','ChakraUI','RazorPay','Nodecron'];
+const CryptoSkills =['Rapid API','React','Redux','Sqlite','MongoDB','ChakraUI','Nodecron'];
 const Cryptodesc = "Explore the world of cryptocurrencies with my cutting-edge information website, offering real-time statistics for over 1000 digital currencies. Dive into the market trends, track live data, and access registration links for each cryptocurrency. Empowering enthusiasts and investors, this platform is your gateway to the dynamic realm of decentralized finance."
 
 const CryptoImage="https://bitpay.com/blog/content/images/size/w600/2022/01/buy-games-with-crypto-blog-header.gif";
-const Cryptocodeurl ="https://github.com/xdashutosh/frontend.git";
-const Cryptolive="https://frontend-pearl-two.vercel.app/";
+const Cryptocodeurl ="https://github.com/xdashutosh/cryptoinfo";
+const Cryptolive="https://cryptoinfo-delta.vercel.app/";
 
   return (
     <VStack
